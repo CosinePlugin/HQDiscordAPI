@@ -1,0 +1,9 @@
+name: HQDiscordAPI
+main: kr.cosine.discordapi.HQDiscordAPI
+version: 1.0.0
+api-version: 1.17
+author: Cosine_A
+depend:
+  - HQFramework
+libraries:
+  - net.dv8tion:JDA:5.1.1

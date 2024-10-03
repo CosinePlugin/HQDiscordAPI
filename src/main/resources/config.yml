@@ -1,0 +1,9 @@
+bot:
+  # 토큰
+  token: "token"
+
+  # 상태 메시지
+  activity: "시스템 관리"
+
+  # 디스코드 방 ID
+  guild-id: 0
