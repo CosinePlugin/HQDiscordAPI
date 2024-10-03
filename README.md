@@ -8,7 +8,7 @@ HQ 플러그인에서 디스코드 관련 기능을 사용하기 위해 넣어�
 * 모든 문의, 질문, 개발 요청은 [디스코드](https://discord.gg/hUkaca9ZQu)에서 해주시길 바랍니다.
 
 ## 필수 플러그인
-*  [HQFramework](https://github.com/HQService/HQFramework)
+* [HQFramework](https://github.com/HQService/HQFramework)
 
 ## 버전
 * 1.17.1+
