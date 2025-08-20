@@ -26,6 +26,10 @@ class AsyncDiscordButtonInteractionEvent(
         event.replyModal(modal).queue()
     }
 
+    fun reply(message: String) {
+        event.reply(message).setEphemeral(true).queue()
+    }
+
     override fun getHandlers(): HandlerList {
         return getHandlerList()
     }
