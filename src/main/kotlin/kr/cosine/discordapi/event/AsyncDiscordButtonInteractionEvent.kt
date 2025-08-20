@@ -22,6 +22,8 @@ class AsyncDiscordButtonInteractionEvent(
 
     val button get() = event.button
 
+    val message get() = event.message
+
     fun replyModal(modal: Modal) {
         event.replyModal(modal).queue()
     }
